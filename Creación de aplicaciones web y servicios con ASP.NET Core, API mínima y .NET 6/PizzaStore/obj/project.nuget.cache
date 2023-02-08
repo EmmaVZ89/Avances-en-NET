@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iIfLapJyyvpONEC7eXFCfBiDPYePk+GlaI7mLAW4IylrIi6rQ4F419QM9qHmIdHMujK6NsObSpGT3lWtHkGSAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Note\\Desktop\\NET FRAMEWORK WINDOWS LEARN\\Avances-en-NET\\Creación de aplicaciones web y servicios con ASP.NET Core, API mínima y .NET 6\\PizzaStore\\PizzaStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Note\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Note\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Note\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Note\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Note\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Note\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
